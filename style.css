@@ -13,6 +13,13 @@ color: cyan;
 }
 
 h1 {
-color: black;
+color: cyan;
+font-family: sans-serif;
 
+}
+
+p{
+    text-align: center;
+    color: blueviolet;
+    font-style: italic;
 }
