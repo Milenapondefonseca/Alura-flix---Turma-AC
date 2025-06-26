@@ -8,4 +8,11 @@ body {
 header {
 border-bottom: solid 2px lightblue;
 padding: 20px;
+font-size: 32px;
+color: cyan;
+}
+
+h1 {
+color: black;
+
 }
