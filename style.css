@@ -23,3 +23,9 @@ p{
     color: blueviolet;
     font-style: italic;
 }
+
+section {
+    background-color: rgb(4, 4, 29);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
